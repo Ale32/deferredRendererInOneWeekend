@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+
+bin/
+build/
+
+Debug/
+Release/
+
+*.vcxproj*
